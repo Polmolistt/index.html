@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ca"
+<head>
+<title>Hello world!</title>
+ </head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hola món</title>
+ </head>
+   <body style="background-color: #DBD8CB;">
+     <h1>La meva biografia</h1>
+     <h2>Aquest text tractara de la biografia de <br><i>Pol Molist</i></h2>
+     <h3><tt>Pol Molist,<br>16 anys Taradell.</tt></h3>
+     <p><i>·Biografia:</i></p>
+     <p>·Soc en Pol Molist, de taradell i tinc 16  anys. <p>
+     <p>·Vaig al institut de taradell desde que vaig començar la ESO<BR> i em qued aquest any i el seguent al centre.</p>
+     <p><strong>·Pol Molist </strong>és alumne de 1A de batxillerat a <i>Taradell</i></p>
+     <p>·Ha estat al centre desde 1r de la <i>ESO</i><p/>
+     <p><FONT FACE="impact" SIZE=3 COLOR="purple">Actualment esta cursant 1 de batxillerat <br>També està fent l'assignatura de<em>programació<em><BR></p>
+     <FONT FACE="impact" SIZE=5 COLOR="purple"><i>Esperem que vaigi molt be aquest curs!</i></FONT>
+   </body>
+</html>
